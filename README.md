@@ -9,7 +9,7 @@
 Skills :
 - Web Development : HTML | CSS | Javascript | Angular JS | APIs | Node Js | Django 
 - Mobile development : Java | XML | Kotlin
-- Software Development : Java | Python | C++ | C | Go
+- Software Development : Java | Python | C++ | C# | Go
 - Version Control : Git/Github
 - Databases : PostgreSQL | MariaDB | Firebase
 
