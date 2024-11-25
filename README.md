@@ -7,11 +7,11 @@
 🤔 I’m looking for help with AI and machine learning because nowadays everything I find on the internet are related to these topics and I did not have too much to study about that in College, so any help would not be refused.
 
 Skills :
-- Web Development : HTML | CSS | Javascript | Angular JS | APIs | Node Js | Django 
-- Mobile development : Java | XML | Kotlin
-- Software Development : Java | Python | C++ | C# | Go
-- Version Control : Git/Github
-- Databases : PostgreSQL | MariaDB | Firebase
+- Web Development: HTML | CSS | JavaScript | AngularJS | APIs | Node.js | Django
+- Mobile Development: Java | XML | Kotlin
+- Software Development: Java | Python | C++ | C# | Go
+- Version Control: Git | GitHub
+- Databases: Relational (PostgreSQL | MariaDB) | NoSQL (Firebase)
 
 ⚡ Fun fact: I love Tamarind
 
